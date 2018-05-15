@@ -1,3 +1,3 @@
-# KNN_Classification
+# Image Recognition
 
-machine learning project 1
+Digit recognition from hand written images using KNN classification
